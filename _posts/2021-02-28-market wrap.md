@@ -11,10 +11,10 @@ tags:
 ---
 
 
-• Week end wrap (2021-02-28) 
-	• To sum up, the current trading logic of global recovery is not impacted this week, but we should pay special attention to how Fed to react to this rapidly rising nominal/real rates
-	• Virus side: the market is trading a global recovery story from pandemic, so it is vital to monitor virus situation. US daily confirmed case is still at a relative low level(70+k), same as last week, however, it did not extend previous weeks downtrend. In the previous weeks, weekly-high is always lower than previous week, but this trend has stopped this week. It is not something we should worry about now, but keep an eye on it as if virus situation become worse and people have same reaction function to it, it will impact economy recovery. In general, the market still perceive the virus situation is becoming better and better.
-	• Economic data:  
+Week end wrap (2021-02-28) 
+    * To sum up, the current trading logic of global recovery is not impacted this week, but we should pay special attention to how Fed to react to this rapidly rising nominal/real rates
+    * Virus side: the market is trading a global recovery story from pandemic, so it is vital to monitor virus situation. US daily confirmed case is still at a relative low level(70+k), same as last week, however, it did not extend previous weeks downtrend. In the previous weeks, weekly-high is always lower than previous week, but this trend has stopped this week. It is not something we should worry about now, but keep an eye on it as if virus situation become worse and people have same reaction function to it, it will impact economy recovery. In general, the market still perceive the virus situation is becoming better and better.
+    * Economic data:  
 		○ US new home sales beats expectations(92.3 vs 85.6) 
 		○ US 20Q4 GDP revised down 0.1% vs expectation(4.1% vs 4.2%)
 		○ US jobless initial claims beats expectations(73 vs 82.5)
