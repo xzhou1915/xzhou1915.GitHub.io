@@ -21,7 +21,7 @@ catalog: false
 tags:
     - Market wrap
 ---
-## End of week warp: Do not fight/go with the Fed as they are the primum movens 
+## End of week wrap: Do not fight/go with the Fed as they are the primum movens 
 * All in all: US keeps making progress on its economic recovery which drives up long term nomial/real yields. This caused euqity market/EM tumble. With Fed make it clear that they will not act unless labour market is impacted, there is no constraint for yield to rise further.
 * Virus side 
     * New cases: US confirmed cases extended downward trend, with weekly high lower than last weekly high, same in UK. In France/Italy/German/Brazil/, daily confirmed cases has picked up.  In other EM like Russia/South African, daily confirmed cases are trending down.
