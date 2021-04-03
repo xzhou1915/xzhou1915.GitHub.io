@@ -21,4 +21,4 @@ catalog: false
 tags:
     - Market wrap
 ---
-![image info](20210314_1.png)
+![image info](_posts/20210314_1.png)
