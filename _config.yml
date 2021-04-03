@@ -1,8 +1,8 @@
 # Site settings
 title: Market Updates
 SEOTitle: Market Updates - US yield
-header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+header-img: img/universe1.png
+email: 
 description: "Personal blog for recording my understand of market"
 keyword: "FX, Rates, Fed, Gold"
 url: "https://xzhou1915.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/xzhou1915/xzhou1915.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Get something means losing something"
-sidebar-avatar: /img/aboaaut-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/kitten.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: .github.io    #仓库名称
+  owner: xzhou1915    #github用户名
+  admin: xzhou1915
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
